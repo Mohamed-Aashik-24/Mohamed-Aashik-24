@@ -39,7 +39,7 @@ Student @ Kumaraguru College of Technology KCT'28
 ---
 
 ![Mohamed Aashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAashik&theme=dark&show_icons=true&&hide=issues,contribs)  
-
+![Mohamed Aashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Aashik-24&theme=dark&show_icons=true&&hide=issues,contribs) 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Mohamed_Aashik_24?ext=contest&theme=dark)](https://leetcode.com/u/Mohamed_Aashik_24/)  
 
-[![Mohamed Aashik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedAashik&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Mohamed Aashik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Aashik-24&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
