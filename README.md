@@ -38,7 +38,6 @@ Student @ Kumaraguru College of Technology KCT'28
 
 ---
 
-![Mohamed Aashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAashik&theme=dark&show_icons=true&&hide=issues,contribs)  
 ![Mohamed Aashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Aashik-24&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Mohamed_Aashik_24?ext=contest&theme=dark)](https://leetcode.com/u/Mohamed_Aashik_24/)  
