@@ -15,6 +15,8 @@ Student @ Kumaraguru College of Technology KCT'28
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohamed-aashik-s-24jul2007)  
 [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_._masart_24_._?igsh=MXJ1OHpxZzJuZHZscQ%3D%3D)  
+[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/Mohamed_Aashik_24/)
+
 
 ---
 
