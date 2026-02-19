@@ -13,13 +13,9 @@ Student @ Kumaraguru College of Technology KCT'28
 
 ### Social Presence  
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohamed-aashik-s-24jul2007)   
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohamed-aashik-s-24jul2007)   [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/Mohamed_Aashik_24/)
 
-[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/Mohamed_Aashik_24/)
-
-[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/mohamedaashik24)
-
-[<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_._masart_24_._igsh=MXJ1OHpxZzJuZHZscQ%3D%3D) 
+[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/mohamedaashik24) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_._masart_24_._igsh=MXJ1OHpxZzJuZHZscQ%3D%3D) 
 
 
 ---
