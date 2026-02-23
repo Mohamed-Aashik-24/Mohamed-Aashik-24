@@ -7,7 +7,7 @@ Student @ Kumaraguru College of Technology KCT'28
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🌱 I’m currently learning **AI, ML, DL and AI Agents**
-- 📚 I have knowledge in **Python, MySQL, C, C++, Arduino UNO**
+- 📚 I have knowledge in **Python, MySQL, C, C++, JAVA, Arduino UNO**
 
 ---
 
